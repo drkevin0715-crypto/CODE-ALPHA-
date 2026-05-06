@@ -7,4 +7,4 @@ Domain : Robotics and Automation
 DURATION : 4 WEEKS
 
 Description :
-This report presents the importance of Artificial Intelligence in autonomous robotic systems. It covers machine learning, computer vision, decision-making algorithms, and path planning techniques used in intelligent robots. The project also explains real-world applications such as self-driving vehicles, drones, warehouse robots, healthcare robots, and industrial automation systems while highlighting future developments in AI-powered robotics.
+This project is based on the design and implementation of a Smart Home Lighting Automation System using Arduino, LDR, PIR sensor, relay module, and Wi-Fi connectivity. The system automatically controls lighting based on ambient light intensity and human presence to improve energy efficiency and convenience. The report explains the working principle, circuit design, control logic, applications, and future enhancements for smart home and IoT-based automation systems.
